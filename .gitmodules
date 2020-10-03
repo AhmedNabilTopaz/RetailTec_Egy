@@ -1,0 +1,4 @@
+[submodule "AhmedNabilTopaz/RetailTec_Egy/sr_print_barcode_in_all_reports"]
+	path = AhmedNabilTopaz/RetailTec_Egy/sr_print_barcode_in_all_reports
+	url = git@github.com:AhmedNabilTopaz/RetailTec_Egy.git
+	branch = DEV
